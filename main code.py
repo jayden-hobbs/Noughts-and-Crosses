@@ -1,17 +1,18 @@
-# imports
+#!/usr/bin/env python3
+
+
 import random
 import math
 import time
 import sys
 
-# declare global variables
 global grid
 global numberedGrid
 global count
 global p1Score
 global p2Score
 global gameCounter
-# assign all variables
+
 p1Score = 0
 p2Score = 0
 gameCounter = 0
